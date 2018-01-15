@@ -1,6 +1,6 @@
 # Deploy website with git push command
 
-Assuming that your production's files are available in /var/www/html/www.my_website.com
+Assuming that your production's files are available in /var/www/html/my_website.com
 
 On the server, create a git repository:
 
