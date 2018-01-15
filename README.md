@@ -9,7 +9,7 @@ On the server, create a git repository:
 
 Initialize the git:
 
-git init --bare
+    git init --bare
 
 Then we need to create a post-receive hook:
 
